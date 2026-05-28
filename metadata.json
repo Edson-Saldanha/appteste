@@ -1,0 +1,6 @@
+{
+  "name": "Smart Forms & Leads Creator",
+  "description": "Plataforma SaaS para criação de formulários inteligentes com lógica condicional, captação e gestão de leads comercial com funil Kanban.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
